@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Hi! I'm Sarah Fayyad ☺
+
+Welcome to my website!
 
 You can use the [editor on GitHub](https://github.com/sfayyad/personal-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
